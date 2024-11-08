@@ -1,7 +1,7 @@
 # ArewaDS-Fellowship
 
 ## Description
-This repository is dedicated to exploring the python programming basics.
+This repository contains the source code, datasets, and documentation for my Data Science learning Journey with ArewaDS.
 
 ## Author
 **Mustapha Babatunde Abimbola**  
